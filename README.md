@@ -1,67 +1,66 @@
-# Ashkan Eskandari | AI Research Engineer
+# Ashkan Eskandari  
+**AI Research Engineer | Deep Learning Specialist**
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashkan-eskandari-dev)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ASHKAN.ESKANDARI.DEV@GMAIL.COM)
+---
 
-</div>
+### Contact  
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square)](mailto:ASHKAN.ESKANDARI.DEV@GMAIL.COM)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square)](https://linkedin.com/in/ashkan-eskandari-dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square)](https://github.com/AshkanEskandari)
 
-## 🔬 Research Focus & Technical Expertise
+---
 
-**Core Competencies:**  
-`Large Language Models` • `RAG Systems` • `Transformer Architectures` • `Neural Networks` • `Prompt Engineering` • `Computer Vision` • `Time Series Analysis`
+### Core Expertise  
+- Large Language Models (LLMs) & RAG Systems  
+- Transformer Architecture Optimization  
+- Production-grade AI Solution Development  
+- Synthetic Data Generation & Model Evaluation  
+- Computer Vision & Time Series Analysis  
 
-**Technical Arsenal:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21F?logo=huggingface)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+---
 
-## 🚀 Professional Highlights
+### Technical Proficiencies  
+`Python` `TensorFlow` `PyTorch` `HuggingFace` `SQL`  
+`Docker` `AWS` `Git` `Flask` `NLTK/spaCy`  
+`Prompt Engineering` `Neural Networks` `FAISS` `LangChain`
 
-**AI Research Engineer** @ OSLLM *(2024-Present)*  
-- Architected LLM evaluation framework combining automated metrics & human assessment (+30% validation accuracy)
-- Engineered synthetic data pipeline generating 100K+ samples using GANs & LLMs (60% cost reduction)
-- Developed custom prompt engineering methodologies yielding 25% performance gains across NLP tasks
+---
 
-**Deep Learning Engineer** @ Nerd Studio *(2024-Present)*  
-- Built production-grade RAG system with custom vector stores (40% faster query response)
-- Optimized token utilization strategies reducing API costs by 35% while maintaining 99% retrieval accuracy
+### Professional Experience  
+**AI Research Engineer** | OSLLM (2024-Present)  
+- Developed LLM evaluation framework (+30% validation accuracy)  
+- Engineered synthetic data pipeline (100K+ samples, 60% cost reduction)  
+- Implemented custom prompt engineering methods (25% performance gain)  
 
-**ML Engineering Consultant** *(Freelance 2023-2024)*  
-- Delivered CV solutions achieving 92% classification accuracy using EfficientNet architectures
-- Developed transformer-based medical text classifiers (88% F1-score on specialized datasets)
-- Implemented time-series forecasting models with 15% lower RMSE than baseline benchmarks
+**Deep Learning Engineer** | Nerd Studio (2024-Present)  
+- Built RAG system with custom vector stores (40% faster queries)  
+- Optimized token utilization strategies (35% API cost reduction)  
 
-## 🏆 Featured Projects
+**ML Engineering Consultant** | Freelance (2023-2024)  
+- Delivered CV solutions (92% classification accuracy)  
+- Developed medical text classifiers (88% F1-score)  
+- Implemented time-series models (15% lower RMSE)
 
+---
+
+### Notable Projects  
 **LLM Evaluation Framework**  
-`Python` `HuggingFace` `PyTorch` `Transformers`  
-Multi-modal assessment system combining quantitative metrics and human evaluation workflows
+- Multi-modal assessment system combining quantitative metrics  
+- Tech: Python, Transformers, PyTorch, HumanEval  
 
-**Medical Text Classification System**  
-`TensorFlow` `spaCy` `BERT` `Flask`  
-Transformer-based architecture for specialized healthcare NLP applications
+**Medical Text Classification**  
+- BERT-based architecture for healthcare NLP  
+- Tech: TensorFlow, spaCy, Flask, Docker  
 
-**Production RAG Implementation**  
-`FAISS` `SentenceTransformers` `LangChain` `AWS`  
-End-to-end retrieval system with custom embedding models and optimized chunking strategies
+**Production RAG System**  
+- Custom embedding models and chunking strategies  
+- Tech: FAISS, SentenceTransformers, AWS
 
-## 📚 Technical Publications & Contributions
+---
 
-- Regular contributor to open-source ML projects (500+ GitHub commits annually)
-- Author of "Advanced Prompt Engineering Techniques" technical blog series
-- Maintainer of custom transformer architecture implementations
+### Development Philosophy  
+*"Engineering robust AI systems through principled experimentation and systematic optimization. Focused on creating maintainable solutions that balance research innovation with production realities."*
 
-## 📊 Development Activity
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
-![Ashkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide=issues)
-
-## 💡 Innovation Philosophy
-
-*"Bridging theoretical AI advancements with production-ready solutions through rigorous experimentation and systematic optimization. Passionate about developing intelligent systems that balance computational efficiency with state-of-the-art performance."*
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide=stars,prs)
