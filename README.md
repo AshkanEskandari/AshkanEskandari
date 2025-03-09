@@ -4,7 +4,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashkan-eskandari-dev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:ASHKAN.ESKANDARI.DEV@GMAIL.COM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
 
